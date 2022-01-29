@@ -1,0 +1,74 @@
+[{
+    "id": 1,
+    "campo1": "Bolsa Andy Warhol",
+    "campo2": "14.99€",
+    "srcimg": "https://raw.githubusercontent.com/mariacampos7/contempart2/main/fotos%20buenas%20prac24%2B/TIENDA/pr1.png",
+    "alt": "Manual para dias Rojos",
+    "url": "http://www.google.com/"
+},
+{
+    "id": 2,
+    "campo1": "Gorro Pescador Van Gogh",
+    "campo2": "14.99€",
+    "srcimg": "https://raw.githubusercontent.com/mariacampos7/contempart2/main/fotos%20buenas%20prac24%2B/TIENDA/pr4.png",
+    "alt": "Manual para dias Rojos",
+    "url": "http://www.google.com/"
+},
+{
+    "id": 3,
+    "campo1": "Mochila Magritte",
+    "campo2": "29.99€",
+    "srcimg": "https://raw.githubusercontent.com/mariacampos7/contempart2/main/fotos%20buenas%20prac24%2B/TIENDA/pr7.png",
+    "alt": "Manual para dias Rojos",
+    "url": "http://www.google.com/"
+},
+{
+    "id": 3,
+    "campo1": "Taza Kandinsky",
+    "campo2": "6.99€",
+    "srcimg": "https://raw.githubusercontent.com/mariacampos7/contempart2/main/fotos%20buenas%20prac24%2B/TIENDA/pr2.png",
+    "alt": "Manual para dias Rojos",
+    "url": "http://www.google.com/"
+},
+{
+    "id": 3,
+    "campo1": "Libreta Piet Mondrian",
+    "campo2": "6.99€",
+    "srcimg": "https://raw.githubusercontent.com/mariacampos7/contempart2/main/fotos%20buenas%20prac24%2B/TIENDA/pr5.png",
+    "alt": "Manual para dias Rojos",
+    "url": "http://www.google.com/"
+},
+{
+    "id": 3,
+    "campo1": "Calcetines Matisse",
+    "campo2": "4.99€",
+    "srcimg": "https://raw.githubusercontent.com/mariacampos7/contempart2/main/fotos%20buenas%20prac24%2B/TIENDA/pr9.png",
+    "alt": "Manual para dias Rojos",
+    "url": "http://www.google.com/"
+},
+{
+    "id": 3,
+    "campo1": "Libro Andy Warhol",
+    "campo2": "19.99€",
+    "srcimg": "https://raw.githubusercontent.com/mariacampos7/contempart2/main/fotos%20buenas%20prac24%2B/TIENDA/pr3.png",
+    "alt": "Manual para dias Rojos",
+    "url": "http://www.google.com/"
+},
+{
+    "id": 3,
+    "campo1": "Imán Monet",
+    "campo2": "3.99",
+    "srcimg": "https://raw.githubusercontent.com/mariacampos7/contempart2/main/fotos%20buenas%20prac24%2B/TIENDA/pr6.png",
+    "alt": "Manual para dias Rojos",
+    "url": "http://www.google.com/"
+},
+{
+    "id": 3,
+    "campo1": "Bolsa Matisse",
+    "campo2": "14.99",
+    "srcimg": "https://raw.githubusercontent.com/mariacampos7/contempart2/main/fotos%20buenas%20prac24%2B/TIENDA/pr8.png",
+    "alt": "Manual para dias Rojos",
+    "url": "http://www.google.com/"
+}
+]
+
